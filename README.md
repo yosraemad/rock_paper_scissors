@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Preview
+![preview](https://github.com/yosraemad/rock_paper_scissors/blob/master/preview.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
